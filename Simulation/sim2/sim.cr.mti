@@ -1,0 +1,64 @@
+C:/Users/ngnma/Desktop/Gemm4/Mem_W.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ngnma/Desktop/Gemm4/Mem_W.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mem_W
+-- Compiling architecture arch of Mem_W
+
+} {} {}} C:/Users/ngnma/Desktop/Gemm4/MAC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ngnma/Desktop/Gemm4/MAC.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mac
+-- Compiling architecture arch of Mac
+
+} {} {}} C:/Users/ngnma/Desktop/Gemm4/Reg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ngnma/Desktop/Gemm4/Reg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Reg
+-- Compiling architecture arch of Reg
+
+} {} {}} C:/Users/ngnma/Desktop/Gemm4/Mem_AXW.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ngnma/Desktop/Gemm4/Mem_AXW.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mem_AXW
+-- Compiling architecture arch of Mem_AXW
+
+} {} {}} C:/Users/ngnma/Desktop/Gemm4/Mem_AX.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ngnma/Desktop/Gemm4/Mem_AX.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Mem_AX
+-- Compiling architecture arch of Mem_AX
+
+} {} {}} C:/Users/ngnma/Desktop/Gemm4/Gemm_iterator.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ngnma/Desktop/Gemm4/Gemm_iterator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Gemm_iterator
+-- Compiling architecture arch of Gemm_iterator
+
+} {} {}} C:/Users/ngnma/Desktop/Gemm4/Testbench.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/ngnma/Desktop/Gemm4/Testbench.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Testbench
+-- Compiling architecture arch of Testbench
+
+} {} {}}

@@ -1,0 +1,297 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ngnma/Desktop/GCN/Spdmm2/New folder
+Egemm_iterator
+Z0 w1706174349
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/ngnma/Desktop/GCN/Gemm4/New folder
+Z5 8C:/Users/ngnma/Desktop/Gemm4/Gemm_iterator.vhd
+Z6 FC:/Users/ngnma/Desktop/Gemm4/Gemm_iterator.vhd
+l0
+L5
+VCL:?O>F[0D[Q8Z;bW^S4L2
+!s100 _D7eIHe1=aS0XSX^b[8Y[1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1706247926
+!i10b 1
+Z9 !s108 1706247926.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ngnma/Desktop/Gemm4/Gemm_iterator.vhd|
+Z11 !s107 C:/Users/ngnma/Desktop/Gemm4/Gemm_iterator.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+DEx4 work 13 gemm_iterator 0 22 CL:?O>F[0D[Q8Z;bW^S4L2
+l36
+L20
+VJedagC;jF7SO`fz0IC>8`2
+!s100 >N9Ba4zRYD=jHz;CIjVG`3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Emac
+Z14 w1703763911
+R1
+R2
+R3
+R4
+Z15 8C:/Users/ngnma/Desktop/Gemm4/MAC.vhd
+Z16 FC:/Users/ngnma/Desktop/Gemm4/MAC.vhd
+l0
+L5
+VUQ?:TWNfRWLL7z@CJgLLX0
+!s100 HlW8[>AB[NL@hnMkb7@9I1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ngnma/Desktop/Gemm4/MAC.vhd|
+Z18 !s107 C:/Users/ngnma/Desktop/Gemm4/MAC.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 3 mac 0 22 UQ?:TWNfRWLL7z@CJgLLX0
+l15
+L13
+VP:cGGZV7hRjU@U`Md5zdL1
+!s100 ?2fA82<DGV:^?J2J4a`RL0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Emem_ax
+Z19 w1706101368
+R1
+R2
+R3
+R4
+Z20 8C:/Users/ngnma/Desktop/Gemm4/Mem_AX.vhd
+Z21 FC:/Users/ngnma/Desktop/Gemm4/Mem_AX.vhd
+l0
+L5
+V]^[59;5O?Un_iEjZ_9FOS0
+!s100 ^ULF_UND3[RRbQ1WQf@6Y2
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ngnma/Desktop/Gemm4/Mem_AX.vhd|
+Z23 !s107 C:/Users/ngnma/Desktop/Gemm4/Mem_AX.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 6 mem_ax 0 22 ]^[59;5O?Un_iEjZ_9FOS0
+l32
+L30
+V26:c@7?6lg1dhUKkiIfLl1
+!s100 lB>IiTG1Fn5Gbl>EzG0V]0
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Emem_axw
+Z24 w1706104914
+R1
+R2
+R3
+R4
+Z25 8C:/Users/ngnma/Desktop/Gemm4/Mem_AXW.vhd
+Z26 FC:/Users/ngnma/Desktop/Gemm4/Mem_AXW.vhd
+l0
+L5
+V]=JlUnGn;X=UN?BHF`gOe1
+!s100 5X6i1il:=BaU5kdC>0HQ;1
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ngnma/Desktop/Gemm4/Mem_AXW.vhd|
+Z28 !s107 C:/Users/ngnma/Desktop/Gemm4/Mem_AXW.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 7 mem_axw 0 22 ]=JlUnGn;X=UN?BHF`gOe1
+l36
+L34
+Ve_C6l=Uc1HD?o54B>lA021
+!s100 ZzYh]aH@J`AE@]:TdUfan3
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Emem_w
+Z29 w1706097555
+R1
+R2
+R3
+R4
+Z30 8C:/Users/ngnma/Desktop/Gemm4/Mem_W.vhd
+Z31 FC:/Users/ngnma/Desktop/Gemm4/Mem_W.vhd
+l0
+L5
+VBCnakln8>i?4<63ZD]>QA1
+!s100 @7b;WGgd9bHSJP1mDe1n73
+R7
+32
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ngnma/Desktop/Gemm4/Mem_W.vhd|
+Z33 !s107 C:/Users/ngnma/Desktop/Gemm4/Mem_W.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 5 mem_w 0 22 BCnakln8>i?4<63ZD]>QA1
+l24
+L22
+VkX@PIKF_BPQ33Fl>zjXCY1
+!s100 PiXQ7a`JV5jP07JM2UMBl3
+R7
+32
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
+Ereg
+Z34 w1706105365
+R1
+R2
+R3
+R4
+Z35 8C:/Users/ngnma/Desktop/Gemm4/Reg.vhd
+Z36 FC:/Users/ngnma/Desktop/Gemm4/Reg.vhd
+l0
+L5
+V2^j[K60^NVeAcfEb_`AlC2
+!s100 d5lzRN1=X2YhTNzk`HhCd2
+R7
+32
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ngnma/Desktop/Gemm4/Reg.vhd|
+Z38 !s107 C:/Users/ngnma/Desktop/Gemm4/Reg.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 3 reg 0 22 2^j[K60^NVeAcfEb_`AlC2
+l15
+L13
+VdXi<9k^1?T[<=6j=kcILG2
+!s100 6d[_3^FibnKKR1AY:P=;D1
+R7
+32
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Etestbench
+Z39 w1706178637
+R1
+R2
+R3
+R4
+Z40 8C:/Users/ngnma/Desktop/Gemm4/Testbench.vhd
+Z41 FC:/Users/ngnma/Desktop/Gemm4/Testbench.vhd
+l0
+L5
+VN2Wf_`PXjhTRZ@]KbHj@z3
+!s100 AeOe[Gm`>V`N8i;Ej6iSh1
+R7
+32
+R8
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ngnma/Desktop/Gemm4/Testbench.vhd|
+Z43 !s107 C:/Users/ngnma/Desktop/Gemm4/Testbench.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 9 testbench 0 22 N2Wf_`PXjhTRZ@]KbHj@z3
+l132
+L8
+VYzn7S]C6Xb>`nKICG?Xn62
+!s100 5P:mfIl1]IaW:[kNJ;YfB0
+R7
+32
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
